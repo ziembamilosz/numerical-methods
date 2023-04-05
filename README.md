@@ -8,7 +8,7 @@ AGH UST for the field of Automatics Control and Robotics.
 * Lab1 and Lab2: Introduction to NumPy and Matplotlib.pyplot
 * Lab3: Numerical errors
 * Lab4: Solving systems of linear equations nxn
-* Lab5: Solving systems of linear equations mxm with sparse matrix
+* Lab5: Solving systems of linear equations mxn with sparse matrix
 * Lab6: Interpolation and approximating functions
 * Lab7: Splines
 * Lab8: Eigenvalues
