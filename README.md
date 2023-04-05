@@ -1,7 +1,7 @@
 # Numerical Methods course in Python/NumPy
 
 This repository contains solutions for exercises required for Numerical Methods course on
-AGH UST for the field of automatics controll and robotics.
+AGH UST for the field of Automatics Control and Robotics.
 
 ### Contents
 
