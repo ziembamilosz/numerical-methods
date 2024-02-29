@@ -3,6 +3,13 @@
 This repository contains solutions for exercises required for Numerical Methods course on
 AGH UST for the field of Automatics Control and Robotics.
 
+### Tech stack
+
+* Python
+* NumPy
+* Matplotlib.pyplot
+* Scipy
+
 ### Contents
 
 * Lab1 and Lab2: Introduction to NumPy and Matplotlib.pyplot
