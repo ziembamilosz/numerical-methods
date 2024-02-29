@@ -16,3 +16,5 @@ AGH UST for the field of Automatics Control and Robotics.
 * Lab10: Solving non-linear equations
 * Lab11: Quadratures
 * Lab12: Cauchy's problem
+
+# As there are issues with loading and rendering jupyter notebooks on Github I recommend using https://nbviewer.org/github/ziembamilosz/numerical-methods/tree/main/ for viewing this repository.
