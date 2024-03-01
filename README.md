@@ -24,4 +24,5 @@ AGH UST for the field of Automatics Control and Robotics.
 * Lab11: Quadratures
 * Lab12: Cauchy's problem
 
-### As there are issues with loading and rendering jupyter notebooks on Github I recommend using https://nbviewer.org/github/ziembamilosz/numerical-methods/tree/main/ for viewing this repository.
+### As there are issues with loading and rendering jupyter notebooks on Github I recommend using link below for viewing this repository.
+* https://nbviewer.org/github/ziembamilosz/numerical-methods/tree/main/
